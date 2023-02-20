@@ -1,0 +1,8 @@
+.baseboard{
+    display: flex;
+    background-color: black;
+    height: 4rem;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}

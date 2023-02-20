@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    background-color: #b71212;
+}
+
+.email {
+    width: 20rem;
+    height: 5rem;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    background-color: #b71212;
+    border-bottom: black solid 5px;
+}
+.password {
+    width: 20rem;
+    height: 5rem;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    background-color: #b71212;
+    border-bottom: black solid 5px;
+}
+.nameAndLastname{
+    width: 20rem;
+    height: 5rem;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    background-color: #b71212;
+    border-bottom: black solid 5px;
+}

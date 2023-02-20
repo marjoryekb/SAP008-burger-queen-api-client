@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background-color: #b71212;
+}
+.selectRegister {
+    width: 20rem;
+    height: 5rem;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    background-color: #b71212;
+    border-bottom: black solid 5px;
+    font-size: 2rem;
+    color: white; 
+}
+::placeholder {
+    font-size: 2rem;
+    color: rgb(238, 232, 232);
+}
